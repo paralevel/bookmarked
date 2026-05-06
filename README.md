@@ -15,4 +15,4 @@ Notes about the bookmark deletion option
 - The bookmarks are listed from the last to the earliest bookmarked
 
 \
-Caution: This shortcut includes [unofficial](https://github.com/paralevel/secret-actions-for-shortcuts), experimental actions
+Caution: This shortcut includes [unofficial](https://github.com/paralevel/secret-actions-for-shortcuts) (maybe experimental) actions
