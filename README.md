@@ -1,4 +1,4 @@
-# BookmarkChecker
+# BookmarkCheck
 
 [Release 2026050211](https://www.icloud.com/shortcuts/8d020404132c4a2fb18f765a3a5e8bf0)
 <br>
