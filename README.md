@@ -1,4 +1,4 @@
-# BookmarkCheck
+# Bookmarked
 
 [Release 20260514](https://www.icloud.com/shortcuts/084e88c39ceb462b978056dd224c1cda)
 <br>
