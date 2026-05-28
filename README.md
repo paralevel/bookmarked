@@ -1,5 +1,7 @@
 # Bookmarked
-
+<sup>_System Requirements: iOS 26 or macOS 26_</sup>
+<br>
+<br>
 [Release 20260515](https://www.icloud.com/shortcuts/ba86d85b08064a63b5c3259a8c130253)
 <br>
 <br>
