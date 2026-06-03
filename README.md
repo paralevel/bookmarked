@@ -1,8 +1,8 @@
-# Bookmarked
+# BMCHK
 <sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
 <br>
 <br>
-[Release 20260515](https://www.icloud.com/shortcuts/ba86d85b08064a63b5c3259a8c130253)
+[Release 20260603](https://www.icloud.com/shortcuts/2ed753b94d05410d9a9e8778d0fce096)
 <br>
 <br>
 Shortcut for iOS and macOS that searches for the current Safari web page in your bookmarks. Finds variant URLs that end/don’t end with an anchor/URI fragment or a “/”, and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked. On iOS, the shortcut only works from the Share menu in Safari – on macOS, it works both independently and from Safari’s Share menu.
