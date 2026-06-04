@@ -1,8 +1,8 @@
-# Checkmarks
+# Bookmark Checker
 <sup>_System Requirements: iOS 26 or macOS Tahoe 26_</sup>
 <br>
 <br>
-[Release 20260604](https://www.icloud.com/shortcuts/1e5fc223d4764b298e6fda1e5fe6fc0d)
+[Release 20260604](https://www.icloud.com/shortcuts/8caf1275425e4a5daeeeb280462562eb)
 <br>
 <br>
 Shortcut for iOS and macOS that searches for the current Safari web page in your bookmarks. Finds variant URLs that end/don’t end with an anchor/URI fragment or a “/”, and also URLs with the same title – useful for example when the URL has been changed since the page was bookmarked. On iOS, the shortcut only works from the Share menu in Safari – on macOS, it works both independently and from Safari’s Share menu.
